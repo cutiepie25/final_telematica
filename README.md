@@ -60,4 +60,4 @@ src/
 
 ### Contribuciones
 
-[Anna Harren](https://github.com/iirelu/) y [sigod](https://github.com/sigod) son los mantenedores de este repositorio.
+[Anna Harren](https://github.com/iirelu/) y [sigod](https://github.com/sigod) son los mantenedores de el clon de 2048, aquí se incorporo el despliegue automatizado.
