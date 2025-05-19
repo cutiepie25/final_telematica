@@ -1,10 +1,4 @@
 # 2048
-Un pequeño clon de [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), basado en [2048 de Saming](http://saming.fr/p/2048/) (también un clon).
-
-Hecho solo por diversión. [¡Juégalo aquí!](http://gabrielecirulli.github.io/2048/)
-
-La aplicación oficial también se puede encontrar en [Play Store](https://play.google.com/store/apps/details?id=com.gabrielecirulli.app2048) y [App Store!](https://itunes.apple.com/us/app/2048-by-gabriele-cirulli/id868076805)
-
 ## Guía de Despliegue
 
 ### Requisitos Previos
